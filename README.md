@@ -1,0 +1,4 @@
+-Used olympicmedals.csv as the data source for the database <br />
+-Imported data into mysql as a raw data table <br />
+-Made tables Olympiad, Competition, Country, Athlete, Medal <br />
+-Made joining tables Olympiad_Event, Competition_Medal, and Athlete_Medal <br />
